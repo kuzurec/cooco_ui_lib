@@ -1,11 +1,11 @@
 # cooco_ui_lib
 
-* 安装
+* Install
 ```
    npm install cooco_ui_lib
 ```
 
-* 使用
+* Use with react
 
 ```javascript
    import { Loading } from 'cooco_ui_lib';
